@@ -1,0 +1,134 @@
+![player](.github/images/player.png)
+
+# Geometry Dash Icon Templates
+
+GD has a lot of weird quirks when it comes to icon creation, so this project is meant to catagorize everything into project/template files for various programs.
+
+## Useful Resources
+
+| Link                                                                                | Description                                                                                                                                    |
+| ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| [Icon Creator](https://iconcreator.pages.dev/)                                      | Web based icon creator with support for icon plist compiling, previewing, showcasing, and tools like auto glow and secondary layer generation. |
+| [GDBrowser Icon Kit](https://gdbrowser.com/iconkit/)                                | Online Icon Kit for the game. Useful for quick referencing, and also contains a dev tool section for previewing different offsets of layers.   |
+| [GD Colon Spritesheet Splitter (& Merger)](https://gdcolon.com/gdsplitter/)         | Online gamesheet splitter and merger. Can be useful for compiling icons and splitting already existing gamesheets.                             |
+| [Bulk Export To Medium Quality Tool](https://github.com/Luar77/LIT/releases/latest) | Does what it says on the tin. Just place the EXE in a folder you want to bulk downscale and watch the magic.                                   |
+| [Icon Gallery Submit](https://gallerysubmit.pages.dev/)                             | The page used to generate and submit `.gdicon` files to the Icon Gallery. **Be sure to read over the guidelines before submitting.**           |
+
+## Template Files Setup
+
+### Adobe Illustrator
+
+#### AIT Files
+
+Extract the template files into `C:\Program Files\Adobe\Adobe Illustrator {YEAR}\Cool Extras\en_US\Templates`
+
+You can use these quickly by doing any of the following:
+
+- Clicking `File > New from Template...`
+- Clicking `Shift + Ctrl + N`
+- Clicking `More Settings` then `Templates` in the new file interface
+  - This is a lot easier if you go to your settings and enable `Use legacy "File New" interface`. This will instead bring you straight to the more settings instead of the newer file new window.
+
+#### Swatches
+
+You will want to extract the `gd_color_swatches.ai` file to the following directory:
+
+`C:\Users\{username}\AppData\Roaming\Adobe\Adobe Illustrator 30 Settings\{region_code}\x64\Swatches`
+
+Once done you can open it inside of any project by clicking the color icon in the corner, then `Library > User Defined > gd_color_swatches`
+
+### Paint.NET
+
+#### PDN Files
+
+Each icon has a .PDN file with all of the template info. Make sure to select the `content` layer when designing so that you don't end up messing up the guides (Paint.NET does not have layer locking).
+
+#### Palette File
+
+Extract the `gd_colors.txt` file into the following directory:
+
+`Documents\Paint.NET User Files\Palettes`
+
+Once done you can click the palette icon inside the color window and select the `gd_colors` palette.
+
+## Icon Info
+
+The following info should all be listed inside the info layer on each template, but here's a quick reference guide for all of the icons.
+
+### Naming Conventions
+
+Some game modes have names that don't match what they're called in game. This is mainly due to Robtop calling them something else originally and not changing them later on (GD has an ungodly amount of technical debt). Here's a quick list of all of them for reference:
+
+- Cube -> `player`
+- Ball -> `player_ball`
+  - The only icon that has a `player_` prefix
+- UFO -> `bird`
+  - The gamemode was originally based off of Flappy Bird, so it's assumed Bird is a reference to that as a code name
+- Wave -> `dart`
+  - Dart was the original name for the wave before the community essentially renamed it. It was actually named dart in previous game updates before being renamed later on
+
+The rest of the icons are self explainitory (ex: Ship -> `ship`).
+
+### Stroke Sizes
+
+> **Glow Stroke is 4px for every icon**
+
+| Icon Type          | Outer Stroke | Inner Stroke |
+| ------------------ | ------------ | ------------ |
+| player (cube)      | 6px          | ≤4px         |
+| ship               | 4px          | ≤4px         |
+| player_ball (ball) | 6px          | ≤4px         |
+| bird (ufo)         | 4px          | ≤3px         |
+| dart (wave)        | 5px          | ≤4px         |
+| robot              | 4-5px        | ≤4px         |
+| spider             | 4-5px        | ≤4px         |
+| swing              | 4-5px        | ≤4px         |
+| jetpack            | 5px          | ≤4px         |
+
+### Unique Gamemode Information
+
+**UFO (bird)**
+
+- Dome Opacity: 25%
+- Dome Stroke: 3px
+- Dome Texture Name: `bird_##_3_001`
+
+**Wave (dart)**
+
+- Uses sharp corners on the outer stroke instead of rounded corners like the rest of the icons in game.
+
+**Robot**
+
+- Head Rotation: 2°
+- Leg Texture Name: `robot_##_01_001`
+  - Secondary layer `robot_##_01_2_001`
+  - Extra layer `robot_##_01_extra_001`
+- Front Connector: 315°
+- Back Connector: 300°
+- Connector Texture Name: `robot_##_02_001`
+  - Secondary layer `robot_##_02_2_001`
+  - **No extra layer support**
+- Front Leg: 43°
+- Back Leg: 30°
+- Leg Texture Name: `robot_##_03_001`
+  - Secondary layer `robot_##_03_2_001`
+  - **No extra layer support**
+
+**Spider**
+
+- Head Texture Name: `spider_##_01_001`
+  - Secondary layer: `spider_##_01_2_001`
+  - Extra layer: `spider_##_01_extra_001`
+- Back Leg Rotation: 322°
+- Back Leg Texture Name: `spider_##_03_001`
+  - Secondary layer: `spider_##_01_2_001`
+  - **No extra layer support**
+- Connector Rotation: 8°
+- Connector Texture Name: `spider_##_01_4_001`
+  - Secondary layer: `spider_##_04_2_001`
+  - **No extra layer support**
+- Background Legs Scale: 0.9x
+
+## Contributing
+
+Contributions are welcome! The most wanted contribution would be to port the project files over to programs that are not included currently.
