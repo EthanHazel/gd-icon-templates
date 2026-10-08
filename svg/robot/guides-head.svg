@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 180 180">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: #ec1c24;
+      }
+
+      .st3 {
+        fill: url(#linear-gradient);
+      }
+
+      .st4 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="88.75" y1="8.77" x2="88.75" y2="133" gradientTransform="translate(0 180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#ec1c24" stop-opacity="0"/>
+      <stop offset=".27" stop-color="#ec1c24" stop-opacity=".08"/>
+      <stop offset=".35" stop-color="#ec1c24" stop-opacity=".29"/>
+      <stop offset=".43" stop-color="#ec1c24" stop-opacity=".48"/>
+      <stop offset=".51" stop-color="#ec1c24" stop-opacity=".64"/>
+      <stop offset=".59" stop-color="#ec1c24" stop-opacity=".77"/>
+      <stop offset=".68" stop-color="#ec1c24" stop-opacity=".87"/>
+      <stop offset=".77" stop-color="#ec1c24" stop-opacity=".94"/>
+      <stop offset=".87" stop-color="#ec1c24" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#ec1c24"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="88.75" y1="10.88" x2="88.75" y2="130.88" gradientTransform="translate(0 180) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".25" stop-color="#ec1c24" stop-opacity="0"/>
+      <stop offset=".27" stop-color="#ec1c24" stop-opacity=".08"/>
+      <stop offset=".35" stop-color="#ec1c24" stop-opacity=".29"/>
+      <stop offset=".43" stop-color="#ec1c24" stop-opacity=".48"/>
+      <stop offset=".51" stop-color="#ec1c24" stop-opacity=".64"/>
+      <stop offset=".59" stop-color="#ec1c24" stop-opacity=".77"/>
+      <stop offset=".68" stop-color="#ec1c24" stop-opacity=".87"/>
+      <stop offset=".77" stop-color="#ec1c24" stop-opacity=".94"/>
+      <stop offset=".87" stop-color="#ec1c24" stop-opacity=".99"/>
+      <stop offset="1" stop-color="#ec1c24"/>
+    </linearGradient>
+  </defs>
+  <rect class="st1" width="180" height="180"/>
+  <g id="Guides">
+    <g class="st4">
+      <path class="st3" d="M31.91,48.04l117.92,4.24-4.24,117.92-117.92-4.24,4.24-117.92M30.95,47l-4.31,119.92,119.92,4.31,4.31-119.92-119.92-4.31h0Z"/>
+    </g>
+    <g class="st4">
+      <path class="st2" d="M72.37,91.52l33.98,1.22-1.22,33.98-33.98-1.22,1.22-33.98M71.41,90.48l-1.29,35.98,35.98,1.29,1.29-35.98-35.98-1.29h0Z"/>
+    </g>
+    <g class="st4">
+      <path class="st0" d="M88.72,49.12v1c.71,0,1.44,0,2.15.04,32.51,1.17,58.01,28.57,56.84,61.08-.55,15.37-6.96,29.71-18.04,40.38-11.05,10.64-25.57,16.5-40.88,16.5-.72,0-1.44,0-2.16-.04-15.75-.57-30.34-7.23-41.07-18.77-10.74-11.54-16.34-26.56-15.77-42.31.55-15.37,6.96-29.71,18.04-40.38,11.05-10.64,25.57-16.5,40.88-16.5v-1M88.71,49.12c-32.14,0-58.76,25.46-59.92,57.84-1.19,33.12,24.69,60.93,57.8,62.12.74.03,1.47.04,2.2.04,32.14,0,58.76-25.46,59.92-57.84,1.19-33.12-24.69-60.93-57.8-62.12-.74-.03-1.47-.04-2.2-.04h0Z"/>
+    </g>
+  </g>
+</svg>

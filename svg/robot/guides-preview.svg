@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 240 240">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #ec1c24;
+      }
+
+      .st2 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <rect class="st0" width="240" height="240"/>
+  <g id="Guides">
+    <g class="st2">
+      <path class="st1" d="M179,61v118H61V61h118M180,60H60v120h120V60h0Z"/>
+    </g>
+    <g class="st2">
+      <path class="st1" d="M137,103v34h-34v-34h34M138,102h-36v36h36v-36h0Z"/>
+    </g>
+    <g class="st2">
+      <path class="st1" d="M120,61c32.53,0,59,26.47,59,59s-26.47,59-59,59-59-26.47-59-59,26.47-59,59-59M120,60c-33.14,0-60,26.86-60,60s26.86,60,60,60,60-26.86,60-60-26.86-60-60-60h0Z"/>
+    </g>
+  </g>
+</svg>

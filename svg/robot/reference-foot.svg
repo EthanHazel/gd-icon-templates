@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 90 90">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        opacity: .25;
+      }
+
+      .st2 {
+        fill: none;
+      }
+
+      .st3 {
+        fill: red;
+      }
+
+      .st4 {
+        fill: #ff0;
+      }
+    </style>
+  </defs>
+  <rect class="st2" width="90" height="90"/>
+  <g id="Reference">
+    <g class="st1">
+      <path class="st0" d="M43,32l25,25v1H21v-7l15-19h7M43,24h-7c-2.45,0-4.76,1.12-6.28,3.04l-15,19c-1.11,1.41-1.72,3.16-1.72,4.96v7c0,4.42,3.58,8,8,8h47c4.42,0,8-3.58,8-8v-1c0-2.12-.84-4.16-2.34-5.66l-25-25c-1.5-1.5-3.54-2.34-5.66-2.34h0Z"/>
+      <path d="M43,32l25,25v1H21v-7l15-19h7M43,28h-7c-1.22,0-2.38.56-3.14,1.52l-15,19c-.56.71-.86,1.58-.86,2.48v7c0,2.21,1.79,4,4,4h47c2.21,0,4-1.79,4-4v-1c0-1.06-.42-2.08-1.17-2.83l-25-25c-.75-.75-1.77-1.17-2.83-1.17h0Z"/>
+    </g>
+    <g class="st1">
+      <polygon class="st3" points="70 76.76 63.54 90 26.46 90 20 76.76 45 53 70 76.76"/>
+      <polygon class="st4" points="64.72 77.33 58.54 90 31.46 90 25.28 77.33 45 58.59 64.72 77.33"/>
+      <polygon class="st0" points="59.49 77.41 53.35 90 36.65 90 30.51 77.41 45 63.64 59.49 77.41"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 240 240">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: url(#linear-gradient4);
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6 {
+        fill: none;
+      }
+
+      .st0, .st1, .st3, .st4, .st5, .st6 {
+        stroke-miterlimit: 10;
+      }
+
+      .st1 {
+        stroke: url(#linear-gradient);
+      }
+
+      .st3 {
+        stroke: url(#linear-gradient1);
+      }
+
+      .st4 {
+        stroke: url(#linear-gradient5);
+      }
+
+      .st5 {
+        stroke: url(#linear-gradient3);
+      }
+
+      .st7 {
+        fill: #ec1c24;
+      }
+
+      .st6 {
+        stroke: url(#linear-gradient2);
+      }
+
+      .st8 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="92.19" y1="64.48" x2="103.89" y2="64.48" gradientTransform="translate(-20.32 220.01) rotate(7.25) scale(1.16 -1.12) skewX(-14.59)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2bb673" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2bb673"/>
+      <stop offset="1" stop-color="#2bb673" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="74.52" y1="-62.09" x2="86.22" y2="-62.09" gradientTransform="translate(116.14 108.26) rotate(78.14) scale(.84 -.77) skewX(21.92)" gradientUnits="userSpaceOnUse">
+      <stop offset=".22" stop-color="#2bb673"/>
+      <stop offset="1" stop-color="#2bb673" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient2" x1="64" y1="109.16" x2="64" y2="139.34" gradientTransform="translate(0 238.57) scale(1 -.95)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2bb673" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2bb673"/>
+      <stop offset="1" stop-color="#2bb673" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient3" x1="63.64" y1="-50.59" x2="63.64" y2="-33.2" gradientTransform="translate(91.24 56.36) rotate(90) scale(1 -.82)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2bb673" stop-opacity="0"/>
+      <stop offset=".78" stop-color="#2bb673"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="139.05" y1="188.82" x2="164.77" y2="188.82" gradientTransform="translate(131.53 298.33) rotate(-45) scale(.79 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2bb673" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2bb673"/>
+      <stop offset="1" stop-color="#2bb673" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient5" x1="393.34" y1="90.47" x2="419.05" y2="90.47" gradientTransform="translate(255.28 124.81) rotate(-135) scale(.39 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset=".22" stop-color="#2bb673"/>
+      <stop offset="1" stop-color="#2bb673" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect class="st2" width="240" height="240"/>
+  <g id="Guides">
+    <g class="st8">
+      <path class="st7" d="M179,61v118H61V61h118M180,60H60v120h120V60h0Z"/>
+    </g>
+    <g class="st8">
+      <path class="st7" d="M137,103v34h-34v-34h34M138,102h-36v36h36v-36h0Z"/>
+    </g>
+    <g class="st8">
+      <path class="st7" d="M120,61c32.53,0,59,26.47,59,59s-26.47,59-59,59-59-26.47-59-59,26.47-59,59-59M120,60c-33.14,0-60,26.86-60,60s26.86,60,60,60,60-26.86,60-60-26.86-60-60-60h0Z"/>
+    </g>
+    <g class="st8">
+      <line class="st1" x1="75.31" y1="153.15" x2="89.74" y2="167.43"/>
+      <line class="st3" x1="82.57" y1="160.33" x2="75.38" y2="167.51"/>
+      <line class="st6" x1="64" y1="105.73" x2="64" y2="134.27"/>
+      <line class="st5" x1="64" y1="120" x2="49.74" y2="120"/>
+      <line class="st0" x1="75.52" y1="87.3" x2="89.83" y2="72.99"/>
+      <line class="st4" x1="82.67" y1="80.14" x2="75.52" y2="72.99"/>
+    </g>
+  </g>
+</svg>

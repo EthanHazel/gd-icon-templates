@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 240 240">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient);
+      }
+
+      .st2 {
+        opacity: .5;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="52" y1="92" x2="52" y2="148" gradientTransform="translate(0 240) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="red" stop-opacity="0"/>
+      <stop offset=".17" stop-color="#ff0"/>
+      <stop offset=".33" stop-color="lime"/>
+      <stop offset=".49" stop-color="aqua"/>
+      <stop offset=".7" stop-color="blue"/>
+      <stop offset=".84" stop-color="#f0f"/>
+      <stop offset="1" stop-color="red" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect class="st0" width="240" height="240"/>
+  <g id="Trail">
+    <g id="Real_Trail" class="st2">
+      <rect class="st1" y="92" width="104" height="56"/>
+    </g>
+  </g>
+</svg>

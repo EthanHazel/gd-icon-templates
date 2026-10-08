@@ -20,7 +20,7 @@ GD has a lot of weird quirks when it comes to icon creation, so this project is 
 
 Extract the `.PSDT` files to any directory you would like. `PSDT` files are the same as `PSD` files, but when you open a `PSDT` file it will create a new project from the file. It helps prevent accidental saves on top of the template file.
 
-Photoshop doesn't have a special place to store template files because they want you to use their shitty ass Adobe Stock product. You will have to either open them in the `Open` interface or just open the file directly in the explorer.
+Photoshop doesn't have a special place to store template files because they want you to use their Adobe Stock product. You will have to either open them in the `Open` interface or just open the file directly in the explorer.
 
 ### Adobe Illustrator
 
@@ -49,7 +49,7 @@ Once done you can open it inside of any project by clicking the color icon in th
 
 Extract the project files to any directory you would like.
 
-Each icon has a .PDN file with all of the template info. Make sure to select the `content` layer when designing so that you don't end up messing up the guides (Paint.NET does not have layer locking).
+Each icon has a `.PDN` file with all of the template info. Make sure to select the `content` layer when designing so that you don't end up messing up the guides (Paint.NET does not have layer locking).
 
 #### Palette File
 
@@ -58,6 +58,16 @@ Extract the `gd_colors.txt` file into the following directory:
 `Documents\Paint.NET User Files\Palettes`
 
 Once done you can click the palette icon inside the color window and select the `gd_colors` palette.
+
+### ibisPaint
+
+Extract the project files to any directory you would like.
+
+Each icon has a `.IPV` file with all of the template info.
+
+### Raw SVG
+
+Each layer has been split into it's own file in order to group things together better. SVG doesn't support layers the same as something like Illustrator or Flash does. These were mostly made to just make it easier to port the vector files over to different programs to later be exported as project files.
 
 ## Icon Info
 

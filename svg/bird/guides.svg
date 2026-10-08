@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 240 240">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #2bb673;
+        stroke-miterlimit: 10;
+      }
+
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: #ec1c24;
+      }
+
+      .st3 {
+        fill: #ed1c24;
+      }
+
+      .st4 {
+        fill: #00a551;
+      }
+
+      .st5 {
+        opacity: .5;
+      }
+    </style>
+  </defs>
+  <rect class="st1" width="240" height="240"/>
+  <g id="Guides">
+    <g class="st5">
+      <path class="st2" d="M179,53v118H61V53h118M180,52H60v120h120V52h0Z"/>
+    </g>
+    <g class="st5">
+      <line class="st0" x1="120" y1="146" x2="120" y2="136"/>
+      <line class="st0" x1="125" y1="141" x2="115" y2="141"/>
+    </g>
+    <g class="st5">
+      <path class="st4" d="M152,60v64h-64V60h64M153,59h-66v66h66V59h0Z"/>
+    </g>
+    <g class="st5">
+      <path class="st3" d="M137,95v34h-34v-34h34M138,94h-36v36h36v-36h0Z"/>
+    </g>
+    <g class="st5">
+      <path class="st3" d="M120,53c32.53,0,59,26.47,59,59s-26.47,59-59,59-59-26.47-59-59,26.47-59,59-59M120,52c-33.14,0-60,26.86-60,60s26.86,60,60,60,60-26.86,60-60-26.86-60-60-60h0Z"/>
+    </g>
+  </g>
+</svg>

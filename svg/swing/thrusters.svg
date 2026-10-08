@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 240 240">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #fff;
+      }
+
+      .st1 {
+        fill: none;
+      }
+
+      .st2 {
+        fill: red;
+      }
+
+      .st3 {
+        opacity: .5;
+      }
+
+      .st4 {
+        fill: #ff0;
+      }
+    </style>
+  </defs>
+  <rect class="st1" width="240" height="240"/>
+  <g id="Trusters">
+    <g class="st3">
+      <polygon class="st2" points="64 119.99 43.73 92.55 0 119.99 43.73 147.44 64 119.99"/>
+      <polygon class="st4" points="59.23 119.99 43.24 98.34 8.75 119.99 43.24 141.64 59.23 119.99"/>
+      <polygon class="st0" points="54.92 119.99 43.17 104.09 17.83 119.99 43.17 135.9 54.92 119.99"/>
+      <polygon class="st2" points="82.53 160.33 58.2 161.27 42.63 200.22 81.58 184.66 82.53 160.33"/>
+      <polygon class="st4" points="79.55 163.3 60.36 164.05 48.08 194.77 78.81 182.49 79.55 163.3"/>
+      <polygon class="st0" points="76.86 165.99 62.76 166.54 53.75 189.11 76.32 180.09 76.86 165.99"/>
+      <polygon class="st2" points="82.61 80.08 83.38 55.22 44.59 42.06 57.75 80.85 82.61 80.08"/>
+      <polygon class="st4" points="79.77 77.24 80.38 57.64 49.79 47.26 60.17 77.85 79.77 77.24"/>
+      <polygon class="st0" points="77.21 74.68 77.66 60.28 55.18 52.65 62.81 75.13 77.21 74.68"/>
+    </g>
+  </g>
+</svg>
