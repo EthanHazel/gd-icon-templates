@@ -20,7 +20,7 @@ GD has a lot of weird quirks when it comes to icon creation, so this project is 
 
 #### AIT Files
 
-Extract the template files into `C:\Program Files\Adobe\Adobe Illustrator {YEAR}\Cool Extras\en_US\Templates`
+Extract the template files into `C:\Program Files\Adobe\Adobe Illustrator {version}\Cool Extras\{region_code}\Templates`
 
 You can use these quickly by doing any of the following:
 
@@ -35,7 +35,7 @@ You will want to extract the `gd_color_swatches.ai` file to the following direct
 
 `C:\Users\{username}\AppData\Roaming\Adobe\Adobe Illustrator 30 Settings\{region_code}\x64\Swatches`
 
-Once done you can open it inside of any project by clicking the color icon in the corner, then `Library > User Defined > gd_color_swatches`
+Once done you can open it inside of any project by clicking the color icon in the corner, then `Library (book icon) > User Defined > gd_color_swatches`
 
 ### Paint.NET
 
@@ -75,11 +75,11 @@ The rest of the icons are self explainitory (ex: Ship -> `ship`).
 
 | Icon Type          | Outer Stroke | Inner Stroke |
 | ------------------ | ------------ | ------------ |
-| player (cube)      | 6px          | ≤4px         |
+| cube (player)      | 6px          | ≤4px         |
 | ship               | 4px          | ≤4px         |
-| player_ball (ball) | 6px          | ≤4px         |
-| bird (ufo)         | 4px          | ≤3px         |
-| dart (wave)        | 5px          | ≤4px         |
+| ball (player_ball) | 6px          | ≤4px         |
+| ufo (bird)         | 4px          | ≤3px         |
+| dart (dart)        | 5px          | ≤4px         |
 | robot              | 4-5px        | ≤4px         |
 | spider             | 4-5px        | ≤4px         |
 | swing              | 4-5px        | ≤4px         |
@@ -100,7 +100,7 @@ The rest of the icons are self explainitory (ex: Ship -> `ship`).
 **Robot**
 
 - Head Rotation: 2°
-- Leg Texture Name: `robot_##_01_001`
+- Head Texture Name: `robot_##_01_001`
   - Secondary layer `robot_##_01_2_001`
   - Extra layer `robot_##_01_extra_001`
 - Front Connector: 315°
