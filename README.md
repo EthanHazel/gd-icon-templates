@@ -16,6 +16,12 @@ GD has a lot of weird quirks when it comes to icon creation, so this project is 
 
 ## Template Files Setup
 
+### Adobe Photoshop
+
+Extract the `.PSDT` files to any directory you would like. `PSDT` files are the same as `PSD` files, but when you open a `PSDT` file it will create a new project from the file. It helps prevent accidental saves on top of the template file.
+
+Photoshop doesn't have a special place to store template files because they want you to use their shitty ass Adobe Stock product. You will have to either open them in the `Open` interface or just open the file directly in the explorer.
+
 ### Adobe Illustrator
 
 #### AIT Files
@@ -40,6 +46,8 @@ Once done you can open it inside of any project by clicking the color icon in th
 ### Paint.NET
 
 #### PDN Files
+
+Extract the project files to any directory you would like.
 
 Each icon has a .PDN file with all of the template info. Make sure to select the `content` layer when designing so that you don't end up messing up the guides (Paint.NET does not have layer locking).
 
