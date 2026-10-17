@@ -9,7 +9,7 @@ GD has a lot of weird quirks when it comes to icon creation, so this project is 
 - Adobe Photoshop
 - Adobe Illustrator
 - Affinity
-  - Contributed by **dielth_1**
+  - Contributed by [@Dielth](https://github.com/Dielth)
 - ibisPaint
 - Paint.NET
 - RAW Layers (PNG & SVG)
