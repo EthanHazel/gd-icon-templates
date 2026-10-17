@@ -4,6 +4,16 @@
 
 GD has a lot of weird quirks when it comes to icon creation, so this project is meant to catagorize everything into project/template files for various programs.
 
+**Supported Programs**
+
+- Adobe Photoshop
+- Adobe Illustrator
+- Affinity
+  - Contributed by **dielth_1**
+- ibisPaint
+- Paint.NET
+- RAW Layers (PNG & SVG)
+
 ## Useful Resources
 
 | Link                                                                                | Description                                                                                                                                    |
@@ -43,6 +53,22 @@ You will want to extract the `gd_color_swatches.ai` file to the following direct
 
 Once done you can open it inside of any project by clicking the color icon in the corner, then `Library (book icon) > User Defined > gd_color_swatches`
 
+### Affinity
+
+#### AFTEMPLATE Files
+
+You can feel free to extract these files wherever you want, but be sure it's a place that won't be deleted. I would recommend a documents folder or your pictures folder.
+
+Once finished you are going to want to open up Affinity and open the home menu. This should open automatically when booting up Affinity, but if not, you can hit `Ctrl + Alt + H`, or simply go to `File > Home`. Once done, go to the `My Templates` tab, then under the `Folders` menu, click the `+` button, and add the folder you extracted.
+
+Once finished you can open any template from the `My Templates` menu to make a new project with that icon.
+
+### ibisPaint
+
+Extract the project files to any directory you would like.
+
+Each icon has a `.IPV` file with all of the template info.
+
 ### Paint.NET
 
 #### PDN Files
@@ -58,12 +84,6 @@ Extract the `gd_colors.txt` file into the following directory:
 `Documents\Paint.NET User Files\Palettes`
 
 Once done you can click the palette icon inside the color window and select the `gd_colors` palette.
-
-### ibisPaint
-
-Extract the project files to any directory you would like.
-
-Each icon has a `.IPV` file with all of the template info.
 
 ### Raw SVG
 
@@ -126,10 +146,13 @@ The rest of the icons are self explainitory (ex: Ship -> `ship`).
 - Connector Texture Name: `robot_##_02_001`
   - Secondary layer `robot_##_02_2_001`
   - **No extra layer support**
-- Front Leg: 43°
-- Back Leg: 30°
 - Leg Texture Name: `robot_##_03_001`
   - Secondary layer `robot_##_03_2_001`
+  - **No extra layer support**
+  - Front Leg: 43°
+  - Back Leg: 30°
+- Foot Texture Name: `robot_##_04_001`
+  - Secondary layer `robot_##_04_2_001`
   - **No extra layer support**
 
 **Spider**
@@ -137,12 +160,15 @@ The rest of the icons are self explainitory (ex: Ship -> `ship`).
 - Head Texture Name: `spider_##_01_001`
   - Secondary layer: `spider_##_01_2_001`
   - Extra layer: `spider_##_01_extra_001`
+- Front Leg Texture Name: `spider_##_02_001`
+  - Secondary layer: `spider_##_02_2_001`
+  - **No extra layer support**
 - Back Leg Rotation: 322°
 - Back Leg Texture Name: `spider_##_03_001`
-  - Secondary layer: `spider_##_01_2_001`
+  - Secondary layer: `spider_##_03_2_001`
   - **No extra layer support**
 - Connector Rotation: 8°
-- Connector Texture Name: `spider_##_01_4_001`
+- Connector Texture Name: `spider_##_04_001`
   - Secondary layer: `spider_##_04_2_001`
   - **No extra layer support**
 - Background Legs Scale: 0.9x
